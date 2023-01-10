@@ -1,0 +1,3 @@
+Arrays can be static or dynamic.
+Arrays are collections of data types which are allocated in contiguous memory.
+It is a linear data structure
